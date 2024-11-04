@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "FramePix"
 include(":app")
+include(":core:designsystem")
